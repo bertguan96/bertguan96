@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on Java & TypeScript
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: 
 - :meat_on_bone: Meat lover
