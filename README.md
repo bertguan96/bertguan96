@@ -5,3 +5,4 @@
 - :orange_book: Focusing on Java & TypeScript
 - :hammer: Creator of applications and frameworks
 - :meat_on_bone: Meat lover
+- :book: code-generator-plus, easy-chat, go4java
