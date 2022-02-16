@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Java & TypeScript
+- :orange_book: Focusing on Java & TypeScript & Go
 - :hammer: Creator of applications and frameworks
 - :meat_on_bone: Meat lover
-- :book: code-generator-plus, easy-chat, go4java
+- :book: code-generator-plus, easy-chat, go4java, email.service
